@@ -42,7 +42,7 @@ namespace yedDiagramCreator
             int height = 60;
             string[] tall = { "SSPID","WSPID","DPID"};
             if (tall.Contains(nodeType)){
-                height = 150
+                height = 150;
             }
 
 
@@ -100,11 +100,15 @@ namespace yedDiagramCreator
             data.Add(PolyLineEdge);
             if (edgeText != null)
             {
-                XElement EdgeLabel = new XElement(y + "EdgeLabel", new XAttribute("backgroundColor", "#FFFFFF"), new XAttribute("lineColor", "#000000"));
+                XElement EdgeLabel = new XElement(y + "EdgeLabel");//, new XAttribute("backgroundColor", "#FFFFFF"), new XAttribute("lineColor", "#000000"));
                 EdgeLabel.SetValue(edgeText);
                 PolyLineEdge.Add(EdgeLabel);
             }
-            
+
+            XElement Arrows = new XElement(y + "Arrows", new XAttribute("source", "none"), new XAttribute("target", "standard"));
+
+            PolyLineEdge.Add(Arrows);
+
             // <edge id="e1" source="n0" target="n3">
             //      <data key="d10">1.0</data>
             //      <data key="d12"/>

@@ -22,7 +22,7 @@ namespace yedDiagramCreator
             yedDiagram.addEdge(doc, "5", "3", "RTS 100%");
 
             yedDiagram.addEdge(doc, "4", "3", "RTS 50%");
-            yedDiagram.SaveFile(doc, "C:\\Users\\Thomas\\Yed Diagram\\testing.graphml");
+            yedDiagram.SaveFile(doc, "C:\\Users\\Thomas\\Yed Diagram\\testing2.graphml");
             
         }
     }
