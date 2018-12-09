@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.17.1-->
+  <key attr.name="Description" attr.type="string" for="graph" id="d0"/>
+  <key for="port" id="d1" yfiles.type="portgraphics"/>
+  <key for="port" id="d2" yfiles.type="portgeometry"/>
+  <key for="port" id="d3" yfiles.type="portuserdata"/>
+  <key attr.name="url" attr.type="string" for="node" id="d4"/>
+  <key attr.name="description" attr.type="string" for="node" id="d5"/>
+  <key for="node" id="d6" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d7" yfiles.type="resources"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d8"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d9"/>
+  <key for="edge" id="d10" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+ </graph>
+  <data key="d7">
+    <y:Resources>
+      <y:Resource id="CalculatedDischarge">&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;
+&lt;!-- Created with Inkscape (http://www.inkscape.org/) --&gt;
+
+&lt;svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="51.654762mm"
+   height="17.7314mm"
+   viewBox="0 0 51.654763 17.7314"
+   version="1.1"
+   id="svg4952"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="CalculatedDischarge.svg"&gt;
+  &lt;defs
+     id="defs4946" /&gt;
+  &lt;sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="89.193171"
+     inkscape:cy="167.39605"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="690"
+     inkscape:window-height="595"
+     inkscape:window-x="16"
+     inkscape:window-y="71"
+     inkscape:window-maximized="0" /&gt;
+  &lt;metadata
+     id="metadata4949"&gt;
+    &lt;rdf:RDF&gt;
+      &lt;cc:Work
+         rdf:about=""&gt;
+        &lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;
+        &lt;dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /&gt;
+        &lt;dc:title&gt;&lt;/dc:title&gt;
+      &lt;/cc:Work&gt;
+    &lt;/rdf:RDF&gt;
+  &lt;/metadata&gt;
+  &lt;g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-63.56231,-115.00496)"&gt;
+    &lt;g
+       transform="translate(-12.974543,-64.217023)"
+       id="g4876"&gt;
+      &lt;rect
+         ry="4.3547974"
+         y="179.3056"
+         x="76.620476"
+         height="17.564154"
+         width="51.487518"
+         id="rect4652-5"
+         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.16724534;stroke-opacity:1" /&gt;
+      &lt;g
+         transform="translate(-1.6036083,-2.4369504)"
+         id="g4867"&gt;
+        &lt;g
+           id="g4830-2"
+           transform="translate(-4.0535465,20.658946)"&gt;
+          &lt;rect
+             ry="1.8040706"
+             y="161.12498"
+             x="82.319008"
+             height="7.4835491"
+             width="24.588799"
+             id="rect4824-7"
+             style="opacity:1;fill:#ff00ff;stroke:#000000;stroke-width:0.25;stroke-opacity:1" /&gt;
+          &lt;text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="94.68679"
+             y="164.36308"
+             id="text4530-2-3"&gt;&lt;tspan
+               sodipodi:role="line"
+               id="tspan4528-9-6"
+               x="94.68679"
+               y="164.36308"
+               style="font-size:4.23333311px;line-height:2.6099999px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"&gt;Calculated&lt;/tspan&gt;&lt;tspan
+               id="tspan4660-1"
+               sodipodi:role="line"
+               x="94.68679"
+               y="167.70619"
+               style="font-size:4.23333311px;line-height:2.6099999px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"&gt;Discharge&lt;/tspan&gt;&lt;/text&gt;
+        &lt;/g&gt;
+      &lt;/g&gt;
+    &lt;/g&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="DPID">&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;
+&lt;!-- Created with Inkscape (http://www.inkscape.org/) --&gt;
+
+&lt;svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="51.654766mm"
+   height="39.559525mm"
+   viewBox="0 0 51.654766 39.559525"
+   version="1.1"
+   id="svg4952"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="DPID.svg"&gt;
+  &lt;defs
+     id="defs4946" /&gt;
+  &lt;sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="185.88868"
+     inkscape:cy="572.08295"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="690"
+     inkscape:window-height="595"
+     inkscape:window-x="16"
+     inkscape:window-y="71"
+     inkscape:window-maximized="0" /&gt;
+  &lt;metadata
+     id="metadata4949"&gt;
+    &lt;rdf:RDF&gt;
+      &lt;cc:Work
+         rdf:about=""&gt;
+        &lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;
+        &lt;dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /&gt;
+        &lt;dc:title&gt;&lt;/dc:title&gt;
+      &lt;/cc:Work&gt;
+    &lt;/rdf:RDF&gt;
+  &lt;/metadata&gt;
+  &lt;g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-37.97829,-200.25025)"&gt;
+    &lt;g
+       transform="translate(-26.745587,133.37376)"
+       id="g4899"&gt;
+      &lt;g
+         id="g4802"&gt;
+        &lt;rect
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect3680-2"
+           width="51.404762"
+           height="39.309525"
+           x="64.848877"
+           y="67.001488"
+           ry="3.4017856" /&gt;
+        &lt;g
+           id="g4502-0"
+           transform="translate(57.074405,47.625)"&gt;
+          &lt;rect
+             ry="3.4017742"
+             y="19.376488"
+             x="7.7744751"
+             height="10.394346"
+             width="51.404762"
+             id="rect4487-0"
+             style="opacity:1;fill:#ff00ff;stroke:#000000;stroke-width:0.25;stroke-opacity:1" /&gt;
+          &lt;text
+             id="text4491-2"
+             y="27.203991"
+             x="9.1062508"
+             style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:6.61458302px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"&gt;&lt;tspan
+               style="stroke-width:0.26458332px"
+               y="27.203991"
+               x="9.1062508"
+               id="tspan4489-0"
+               sodipodi:role="line"&gt;Trade Effluent&lt;/tspan&gt;&lt;/text&gt;
+        &lt;/g&gt;
+      &lt;/g&gt;
+    &lt;/g&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="PRIVATEWATER">&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;
+&lt;!-- Created with Inkscape (http://www.inkscape.org/) --&gt;
+
+&lt;svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="51.65477mm"
+   height="17.7314mm"
+   viewBox="0 0 51.65477 17.7314"
+   version="1.1"
+   id="svg4952"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="PrivateWater.svg"&gt;
+  &lt;defs
+     id="defs4946" /&gt;
+  &lt;sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="223.65444"
+     inkscape:cy="477.56378"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="690"
+     inkscape:window-height="595"
+     inkscape:window-x="16"
+     inkscape:window-y="71"
+     inkscape:window-maximized="0" /&gt;
+  &lt;metadata
+     id="metadata4949"&gt;
+    &lt;rdf:RDF&gt;
+      &lt;cc:Work
+         rdf:about=""&gt;
+        &lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;
+        &lt;dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /&gt;
+        &lt;dc:title&gt;&lt;/dc:title&gt;
+      &lt;/cc:Work&gt;
+    &lt;/rdf:RDF&gt;
+  &lt;/metadata&gt;
+  &lt;g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-27.986099,-197.07017)"&gt;
+    &lt;g
+       transform="translate(-54.341544,59.379475)"
+       id="g4884"&gt;
+      &lt;rect
+         ry="4.3547969"
+         y="137.77432"
+         x="82.41127"
+         height="17.564154"
+         width="51.487518"
+         id="rect4652"
+         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.16724534;stroke-opacity:1" /&gt;
+      &lt;g
+         transform="translate(-3.4745039,-23.277746)"
+         id="g4830"
+         style="fill:#00ffff"&gt;
+        &lt;rect
+           style="opacity:1;fill:#00ffff;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect4824"
+           width="17.506155"
+           height="7.3499122"
+           x="85.927147"
+           y="161.09344"
+           ry="3.6749561" /&gt;
+        &lt;text
+           id="text4530-2"
+           y="164.67503"
+           x="94.585136"
+           style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"&gt;&lt;tspan
+             style="font-size:4.23333311px;line-height:2.6099999px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.26458332px"
+             y="164.67503"
+             x="94.585136"
+             id="tspan4528-9"
+             sodipodi:role="line"&gt;Private&lt;/tspan&gt;&lt;tspan
+             style="font-size:4.23333311px;line-height:2.6099999px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.26458332px"
+             y="168.01814"
+             x="94.585136"
+             sodipodi:role="line"
+             id="tspan4660"&gt;Water&lt;/tspan&gt;&lt;/text&gt;
+      &lt;/g&gt;
+    &lt;/g&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="SSPID">&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;
+&lt;!-- Created with Inkscape (http://www.inkscape.org/) --&gt;
+
+&lt;svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="51.654762mm"
+   height="39.559525mm"
+   viewBox="0 0 51.654762 39.559525"
+   version="1.1"
+   id="svg4952"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="SewerageSPID.svg"&gt;
+  &lt;defs
+     id="defs4946" /&gt;
+  &lt;sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="80.192156"
+     inkscape:cy="388.22833"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="690"
+     inkscape:window-height="595"
+     inkscape:window-x="16"
+     inkscape:window-y="71"
+     inkscape:window-maximized="0" /&gt;
+  &lt;metadata
+     id="metadata4949"&gt;
+    &lt;rdf:RDF&gt;
+      &lt;cc:Work
+         rdf:about=""&gt;
+        &lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;
+        &lt;dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /&gt;
+        &lt;dc:title&gt;&lt;/dc:title&gt;
+      &lt;/cc:Work&gt;
+    &lt;/rdf:RDF&gt;
+  &lt;/metadata&gt;
+  &lt;g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-65.943829,-151.60538)"&gt;
+    &lt;g
+       transform="translate(62.478056,83.972938)"
+       id="g4906"&gt;
+      &lt;g
+         id="g4795"&gt;
+        &lt;rect
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect3680"
+           width="51.404762"
+           height="39.309525"
+           x="3.5907738"
+           y="67.757439"
+           ry="3.4017856" /&gt;
+        &lt;rect
+           style="opacity:1;fill:#ffcc00;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect4487"
+           width="51.404762"
+           height="10.394346"
+           x="3.5907729"
+           y="67.757439"
+           ry="3.4017742" /&gt;
+        &lt;text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:6.61458302px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="11.754173"
+           y="74.839081"
+           id="text4491"&gt;&lt;tspan
+             sodipodi:role="line"
+             id="tspan4489"
+             x="11.754173"
+             y="74.839081"
+             style="stroke-width:0.26458332px"&gt;Sewerage&lt;/tspan&gt;&lt;/text&gt;
+      &lt;/g&gt;
+    &lt;/g&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="WSPID">&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;
+&lt;!-- Created with Inkscape (http://www.inkscape.org/) --&gt;
+
+&lt;svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="51.654762mm"
+   height="39.559525mm"
+   viewBox="0 0 51.654762 39.559525"
+   version="1.1"
+   id="svg4952"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="WaterSPID.svg"&gt;
+  &lt;defs
+     id="defs4946" /&gt;
+  &lt;sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="43.186007"
+     inkscape:cy="139.72394"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="690"
+     inkscape:window-height="595"
+     inkscape:window-x="16"
+     inkscape:window-y="71"
+     inkscape:window-maximized="0" /&gt;
+  &lt;metadata
+     id="metadata4949"&gt;
+    &lt;rdf:RDF&gt;
+      &lt;cc:Work
+         rdf:about=""&gt;
+        &lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;
+        &lt;dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /&gt;
+        &lt;dc:title&gt;&lt;/dc:title&gt;
+      &lt;/cc:Work&gt;
+    &lt;/rdf:RDF&gt;
+  &lt;/metadata&gt;
+  &lt;g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-75.735039,-85.855256)"&gt;
+    &lt;g
+       transform="translate(68.214367,71.269183)"
+       id="g4891"&gt;
+      &lt;g
+         id="g4789"&gt;
+        &lt;rect
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect4588"
+           width="51.404762"
+           height="39.309525"
+           x="7.6456728"
+           y="14.711073"
+           ry="3.4017856" /&gt;
+        &lt;rect
+           style="opacity:1;fill:#00ffff;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect4590"
+           width="51.404762"
+           height="10.394346"
+           x="7.6456718"
+           y="14.711073"
+           ry="3.4017742" /&gt;
+        &lt;text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:6.61458302px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="22.802616"
+           y="22.430056"
+           id="text4594"&gt;&lt;tspan
+             sodipodi:role="line"
+             id="tspan4592"
+             x="22.802616"
+             y="22.430056"
+             style="stroke-width:0.26458332px"&gt;Water&lt;/tspan&gt;&lt;/text&gt;
+      &lt;/g&gt;
+    &lt;/g&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="SUBMETER">&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;
+&lt;!-- Created with Inkscape (http://www.inkscape.org/) --&gt;
+
+&lt;svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="51.717709mm"
+   height="17.778454mm"
+   viewBox="0 0 51.717709 17.778454"
+   version="1.1"
+   id="svg4952"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="SubMeter.svg"&gt;
+  &lt;defs
+     id="defs4946" /&gt;
+  &lt;sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="36.02458"
+     inkscape:cy="61.156916"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="690"
+     inkscape:window-height="595"
+     inkscape:window-x="16"
+     inkscape:window-y="71"
+     inkscape:window-maximized="0" /&gt;
+  &lt;metadata
+     id="metadata4949"&gt;
+    &lt;rdf:RDF&gt;
+      &lt;cc:Work
+         rdf:about=""&gt;
+        &lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;
+        &lt;dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /&gt;
+        &lt;dc:title&gt;&lt;/dc:title&gt;
+      &lt;/cc:Work&gt;
+    &lt;/rdf:RDF&gt;
+  &lt;/metadata&gt;
+  &lt;g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-77.629833,-86.848797)"&gt;
+    &lt;g
+       id="g4920"
+       transform="translate(66.411813,-69.370058)"&gt;
+      &lt;g
+         id="g4822"&gt;
+        &lt;rect
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.16724534;stroke-opacity:1"
+           id="rect4642"
+           width="51.487518"
+           height="17.564154"
+           x="11.364587"
+           y="156.34953"
+           ry="4.3547969" /&gt;
+        &lt;circle
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="circle4644"
+           cx="15.453511"
+           cy="160.45435"
+           r="4.1104908" /&gt;
+        &lt;text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:6.61458302px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="13.178026"
+           y="163.02266"
+           id="text4648"&gt;&lt;tspan
+             sodipodi:role="line"
+             id="tspan4646"
+             x="13.178026"
+             y="163.02266"
+             style="stroke-width:0.26458332px"&gt;S&lt;/tspan&gt;&lt;/text&gt;
+      &lt;/g&gt;
+    &lt;/g&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="POTABLE">&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;
+&lt;!-- Created with Inkscape (http://www.inkscape.org/) --&gt;
+
+&lt;svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="51.717705mm"
+   height="17.778454mm"
+   viewBox="0 0 51.717705 17.778454"
+   version="1.1"
+   id="svg4952"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="PotableWater.svg"&gt;
+  &lt;defs
+     id="defs4946" /&gt;
+  &lt;sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="130.07974"
+     inkscape:cy="593.5582"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="690"
+     inkscape:window-height="595"
+     inkscape:window-x="16"
+     inkscape:window-y="71"
+     inkscape:window-maximized="0" /&gt;
+  &lt;metadata
+     id="metadata4949"&gt;
+    &lt;rdf:RDF&gt;
+      &lt;cc:Work
+         rdf:about=""&gt;
+        &lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;
+        &lt;dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /&gt;
+        &lt;dc:title&gt;&lt;/dc:title&gt;
+      &lt;/cc:Work&gt;
+    &lt;/rdf:RDF&gt;
+  &lt;/metadata&gt;
+  &lt;g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-52.744405,-227.71331)"&gt;
+    &lt;g
+       id="g4932"
+       transform="translate(39.451251,95.635938)"&gt;
+      &lt;g
+         id="g4930"&gt;
+        &lt;rect
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.16724534;stroke-opacity:1"
+           id="rect4922"
+           width="51.487518"
+           height="17.564154"
+           x="13.439719"
+           y="132.20805"
+           ry="4.3547964" /&gt;
+        &lt;circle
+           style="opacity:1;fill:#00ffff;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="circle4924"
+           cx="17.528645"
+           cy="136.31287"
+           r="4.1104908" /&gt;
+        &lt;text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:6.61458302px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="14.483179"
+           y="138.88463"
+           id="text4928"&gt;&lt;tspan
+             sodipodi:role="line"
+             id="tspan4926"
+             x="14.483179"
+             y="138.88463"
+             style="stroke-width:0.26458332px"&gt;M&lt;/tspan&gt;&lt;/text&gt;
+      &lt;/g&gt;
+    &lt;/g&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="PRIVATETE">&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;
+&lt;!-- Created with Inkscape (http://www.inkscape.org/) --&gt;
+
+&lt;svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="51.717709mm"
+   height="17.778454mm"
+   viewBox="0 0 51.717709 17.778454"
+   version="1.1"
+   id="svg4952"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="PrivateTE.svg"&gt;
+  &lt;defs
+     id="defs4946" /&gt;
+  &lt;sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="220.37344"
+     inkscape:cy="325.29279"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="690"
+     inkscape:window-height="595"
+     inkscape:window-x="16"
+     inkscape:window-y="71"
+     inkscape:window-maximized="0" /&gt;
+  &lt;metadata
+     id="metadata4949"&gt;
+    &lt;rdf:RDF&gt;
+      &lt;cc:Work
+         rdf:about=""&gt;
+        &lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;
+        &lt;dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /&gt;
+        &lt;dc:title&gt;&lt;/dc:title&gt;
+      &lt;/cc:Work&gt;
+    &lt;/rdf:RDF&gt;
+  &lt;/metadata&gt;
+  &lt;g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-28.854198,-156.73475)"&gt;
+    &lt;g
+       transform="translate(17.636178,0.51589428)"
+       id="g4944"&gt;
+      &lt;g
+         id="g4942"&gt;
+        &lt;rect
+           ry="4.3547969"
+           y="156.34953"
+           x="11.364587"
+           height="17.564154"
+           width="51.487518"
+           id="rect4934"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.16724534;stroke-opacity:1" /&gt;
+        &lt;circle
+           r="4.1104908"
+           cy="160.45435"
+           cx="15.453511"
+           id="circle4936"
+           style="opacity:1;fill:#ff00ff;stroke:#000000;stroke-width:0.25;stroke-opacity:1" /&gt;
+        &lt;text
+           id="text4940"
+           y="163.02266"
+           x="13.178026"
+           style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:6.61458302px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"&gt;&lt;tspan
+             style="stroke-width:0.26458332px"
+             y="163.02266"
+             x="13.178026"
+             id="tspan4938"
+             sodipodi:role="line"&gt;S&lt;/tspan&gt;&lt;/text&gt;
+      &lt;/g&gt;
+    &lt;/g&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="NONPOTABLE">&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;
+&lt;!-- Created with Inkscape (http://www.inkscape.org/) --&gt;
+
+&lt;svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="51.717705mm"
+   height="17.778454mm"
+   viewBox="0 0 51.717705 17.778454"
+   version="1.1"
+   id="svg4952"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="NonPotableWater.svg"&gt;
+  &lt;defs
+     id="defs4946" /&gt;
+  &lt;sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="245.3767"
+     inkscape:cy="156.85936"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="690"
+     inkscape:window-height="595"
+     inkscape:window-x="16"
+     inkscape:window-y="71"
+     inkscape:window-maximized="0" /&gt;
+  &lt;metadata
+     id="metadata4949"&gt;
+    &lt;rdf:RDF&gt;
+      &lt;cc:Work
+         rdf:about=""&gt;
+        &lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;
+        &lt;dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /&gt;
+        &lt;dc:title&gt;&lt;/dc:title&gt;
+      &lt;/cc:Work&gt;
+    &lt;/rdf:RDF&gt;
+  &lt;/metadata&gt;
+  &lt;g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-22.238751,-112.17007)"&gt;
+    &lt;g
+       id="g4913"
+       transform="translate(8.945597,-19.907304)"&gt;
+      &lt;g
+         id="g4816"&gt;
+        &lt;rect
+           ry="4.3547964"
+           y="132.20805"
+           x="13.439719"
+           height="17.564154"
+           width="51.487518"
+           id="rect4524"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.16724534;stroke-opacity:1" /&gt;
+        &lt;circle
+           r="4.1104908"
+           cy="136.31287"
+           cx="17.528645"
+           id="path4605"
+           style="opacity:1;fill:#999999;stroke:#000000;stroke-width:0.25;stroke-opacity:1" /&gt;
+        &lt;text
+           id="text4530"
+           y="138.88463"
+           x="14.483179"
+           style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:6.61458302px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"&gt;&lt;tspan
+             style="stroke-width:0.26458332px"
+             y="138.88463"
+             x="14.483179"
+             id="tspan4528"
+             sodipodi:role="line"&gt;M&lt;/tspan&gt;&lt;/text&gt;
+      &lt;/g&gt;
+    &lt;/g&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+    </y:Resources>
+  </data>
+</graphml>
