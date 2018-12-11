@@ -19,14 +19,15 @@ namespace yedDiagramCreator
             yedDiagram yed = new yedDiagram();
             var doc = yed.LoadTemplate();
 
-            yed.addGroupingNode(doc, "1", "Site", 220, 0);
-            yed.addSVGnode(doc, "2", "Test Water","WSPID",  0);
-            yed.addSVGnode(doc, "3", "Sewerage SpiD", "SSPID",500);
-            yed.addSVGnode(doc, "4", "M1" + Environment.NewLine + "YVE:30m3", "POTABLE" ,250, yspacing_meters*row++, "1");
-            yed.addSVGnode(doc, "5", "M2" + Environment.NewLine + "YVE:500m3", "PRIVATEWATER",250, yspacing_meters * row++,"1");
-            yed.addSVGnode(doc, "6", "M3" + Environment.NewLine + "YVE:500m3", "PRIVATEWATER", 250, yspacing_meters * row++, "1");
-            yed.addSVGnode(doc, "7", "M2" + Environment.NewLine + "YVE:500m3", "PRIVATEWATER", 250, yspacing_meters * row++, "1");
-            yed.addSVGnode(doc, "8", "M3" + Environment.NewLine + "YVE:500m3", "PRIVATEWATER", 250, yspacing_meters * row++, "1");
+            yed.addSVGnode(doc, "2", "Test Water","WSPID", xspacing*0,0);
+            yed.addGroupingNode(doc, "1", "Site", xspacing*1); //On loading into Yed, this will automatticall expand to cope with all elements in the group.
+
+            yed.addSVGnode(doc, "3", "Sewerage SpiD", "SSPID", xspacing*2);
+            yed.addSVGnode(doc, "4", "M1" + Environment.NewLine + "YVE:30m3", "POTABLE" , xspacing, yspacing_meters*row++, "1");
+            yed.addSVGnode(doc, "5", "M2" + Environment.NewLine + "YVE:500m3", "PRIVATEWATER", xspacing, yspacing_meters * row++,"1");
+            yed.addSVGnode(doc, "6", "M3" + Environment.NewLine + "YVE:500m3", "PRIVATEWATER", xspacing, yspacing_meters * row++, "1");
+            yed.addSVGnode(doc, "7", "M2" + Environment.NewLine + "YVE:500m3", "PRIVATEWATER", xspacing, yspacing_meters * row++, "1");
+            yed.addSVGnode(doc, "8", "M3" + Environment.NewLine + "YVE:500m3", "PRIVATEWATER", xspacing, yspacing_meters * row++, "1");
 
             yed.addEdge(doc, "2", "4", null);
             yed.addEdge(doc, "5", "3", "RTS 100");
